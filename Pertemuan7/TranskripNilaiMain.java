@@ -17,7 +17,7 @@ public class TranskripNilaiMain {
         Semester s2 = new Semester(4);
         s2.addMataKuliah(mk3);
 
-        Mahasiswa mhs = new Mahasiswa("123", "Budi");
+        Mahasiswa mhs = new Mahasiswa("233040034", "Made");
         TranskripNilai transkrip = new TranskripNilai(mhs);
         transkrip.addSemester(s1);
         transkrip.addSemester(s2);

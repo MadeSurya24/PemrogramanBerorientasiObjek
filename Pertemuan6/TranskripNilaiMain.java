@@ -11,7 +11,7 @@ public class TranskripNilaiMain {
         khs.addMataKuliah(mk2);
         khs.addMataKuliah(mk3);
 
-        Mahasiswa mhs = new Mahasiswa("123", "Budi");
+        Mahasiswa mhs = new Mahasiswa("233040034", "Made");
 
         TranskripNilai transkrip = new TranskripNilai(mhs);
         transkrip.addKHS(khs);
