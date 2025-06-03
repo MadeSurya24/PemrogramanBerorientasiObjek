@@ -23,5 +23,6 @@ public abstract class Kendaraan {
     public String getNama() {
         return nama;
     }
+
 }
 
